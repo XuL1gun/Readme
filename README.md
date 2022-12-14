@@ -11,6 +11,7 @@
 Автопарк          | 🟡    | <a href="https://github.com/XuL1gun/Autopark.git">Перейти</a>
 Магазин Музыкальных дисков | 🟡|<a href="https://github.com/XuL1gun/Store.git">Перейти</a>
 Password |🟢| <a href="https://github.com/XuL1gun/Password.git">Перейти</a>
+MVVM-Calculator|🟡|<a href="https://github.com/XuL1gun/MauiApp2.git">Перейти</a>
 
 **Статусы выполнения:** <br>
 🔴 Не готово <br>
